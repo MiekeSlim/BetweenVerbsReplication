@@ -2,6 +2,7 @@ PennController.ResetPrefix(null);
 PennController.DebugOff()
 PennController.SetCounter("Counter")
 PennController.Sequence("L1Check", "DeviceCheck", "Counter", "Welcome", "Consent", "trials", "QuestionnairePage", "DebriefingPage", "Send", "Closing")
+AddHost("https://users.ugent.be/~mslim/Priming_img/");
 
 // Check for L1
 PennController("L1Check",
@@ -59,7 +60,7 @@ PennController("L1Check",
 // Welcome, consent, and creditstuff
 // Instructions
     PennController("Welcome",
-        newText("WelcomeText", "<p>Welkom en bedankt dat je deelneemt aan dit experiment! </p><p> </p><p> In dit experiment zul je Nederlandse zinnen zien met onderstaand twee afbeeldingen. Het is de taak om de afbeelding te kiezen die het beste bij de zin past. Indien je beide afbeeldingen vindt passen, kies dan je spontane voorkeur. De zinnen en/of afbeeldingen geven overigens niet per se realistische situaties aan. Nadat je deze taak hebt voltooid, volgt er een korte vragenlijst met vragen over je taalachtergrond. De volledige survey neemt ongeveer 45 tot 60 minuten in beslag. Zorg er dus voor dat je ongeveer een uur rustig kunt werken zonder afleidingen. </p><p> </p><p> Dit is een creditexperiment. Voor je deelname zul je dus één credit ontvangen, mits je de survey serieus en volledig invult. </p><p> </p><p> De resultaten worden volledig anoniem opgeslagen en verwerkt. De resultaten kunnen worden gepubliceerd in wetenschappelijke tijdschriften of gepresenteerd op wetenschappelijke conferenties. Wederom zal de data dan volledig anoniem worden besproken. Daarnaast is het belangrijk dat deelname aan dit experiment vrijwillig is. Aan het einde van dit experiment zal ik je uitleggen wat het doel van dit experiment en mijn onderzoek is. </p><p> Indien je vragen heeft of verdere informatie wilt, kun je contact met mij opnemen door te mailen naar mieke.slim@ugent.be</p><p> <br> <b> Soms komt er een laadscherm in het beeld. Wacht dan even enkele seconden, dit duurt doorgaans nooit lang.</b> <br> <br> Geef hieronder uw <b>participatiecode</b> die u heeft onvangen bij het invoeren van uw gegevens voor het credit.")
+        newText("WelcomeText", "<p>Welkom en bedankt dat je deelneemt aan dit experiment!</p><p> </p><p>In dit experiment zul je Nederlandse zinnen zien met onderstaand twee afbeeldingen. Het is de taak om de afbeelding te kiezen die het beste bij de zin past. Indien je beide afbeeldingen vindt passen, kies dan je spontane voorkeur. De zinnen en/of afbeeldingen geven overigens niet per se realistische situaties aan. Nadat je deze taak hebt voltooid, volgt er een korte vragenlijst met vragen over je taalachtergrond. De volledige survey neemt ongeveer 30 tot 40 minuten in beslag. Zorg er dus voor dat je ongeveer een uur rustig kunt werken zonder afleidingen.</p><p> </p><p>De resultaten worden volledig anoniem opgeslagen en verwerkt. De resultaten kunnen worden gepubliceerd in wetenschappelijke tijdschriften of gepresenteerd op wetenschappelijke conferenties. Wederom zal de data dan volledig anoniem worden besproken. Daarnaast is het belangrijk dat deelname aan dit experiment vrijwillig is. Aan het einde van dit experiment zal ik je uitleggen wat het doel van dit experiment en mijn onderzoek is.</p><p> </p><p>Indien je vragen heeft of verdere informatie wilt, kun je contact met mij opnemen door te mailen naar mieke.slim@ugent.be</p><p> </p><p><b>Soms komt er een laadscherm in het beeld. Wacht dan even enkele seconden, dit duurt doorgaans nooit lang.</b></p><p> </p><p>Geef hieronder je <b>Prolific ID</b> in te voeren, zodat we je betaling kunnen verwerken via Prolific.")
         ,
         newCanvas( "myCanvas", 500, 600)
             .settings.add(0,0, getText("WelcomeText"))
@@ -91,25 +92,10 @@ PennController("L1Check",
             .wait()    
         )
 
-/*
-// Vragen gegevens:
-PennController("CreditGegevensPage",
-       newHtml("CreditGegevens", "Gegevens.html")
-            .settings.log()
-            .print()
-        ,
-        newButton("continue", "Continue to the next page")
-            .print()
-            .wait(
-                getHtml("CreditGegevens").test.complete()
-                    .failure( getHtml("CreditGegevens").warn() )
-            )                         
-)
-.log( "Subject", getVar("Subject")) 
-*/
+
 
 // Implementing the Trials
-    PennController.Template("trials_NL_elke.csv",
+    PennController.Template("trials.csv",
         variable => PennController("trials", 
             newText("sentence", variable.Sentence)
                 .settings.center()
