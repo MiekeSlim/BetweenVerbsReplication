@@ -1,0 +1,541 @@
+Group,Stimuli_Type,PrimeCondition,Item,Sentence,Picture1,Picture2,PrimeQuantifier,Experiment
+A,Filler,NA,IntFiller25,Elke gevangene klapte,prisoner_clap.bmp,prisoner_yawn.bmp,Elke,NL
+A,Filler,NA,TrFiller21,De excentriekeling dronk de champagne,f_eccentric_champagne.bmp,f_eccentric_milkshake.bmp,Elke,NL
+A,Filler,NA,IntFiller32,Elke indiaan zweette,nativeamerican_sweat.bmp,nativeamerican_smile.bmp,Elke,NL
+A,Filler,NA,IntFiller75,Elke brandweerman sliep,fireman_sleep.bmp,skier_sleep.bmp,Elke,NL
+A,Prime,Uwide,PT061,Elke kok knuppelde een boef,chef_burglar_m.bmp,chef_turtle_m.bmp,Elke,NL
+A,Target,NA,PT083,Elke engel rook een pizza,angel_pizza_m.bmp,angel_pizza_s.bmp,Elke,NL
+A,Filler,NA,TrFiller76,De artiest mepte de clown,f_artist_clown.bmp,f_artist_soldier.bmp,Elke,NL
+A,Filler,NA,TrFiller44,De piraat gooide het boek,f_pirate_book.bmp,f_cowboy_book.bmp,Elke,NL
+A,Filler,NA,IntFiller14,Elke brandweerman gaapte,fireman_yawn.bmp,fireman_clap.bmp,Elke,NL
+A,Prime,Ewide,PT065,Elke kunstenaar kuste een bokser,artist_boxer_s.bmp,artist_clown_s.bmp,Elke,NL
+A,Target,NA,PT086,Elke hippie sloeg een reiziger,hippie_backpacker_m.bmp,hippie_backpacker_s.bmp,Elke,NL
+A,Filler,NA,TrFiller07,De danser stak de monnik,f_ballerina_monk.bmp,f_thief_monk.bmp,Elke,NL
+A,Filler,NA,TrFiller31,De kip benaderde de boom,f_chicken_tree.bmp,f_chicken_iglo.bmp,Elke,NL
+A,Filler,NA,IntFiller05,Elke serveerste rende,waitress_run.bmp,policeman_run.bmp,Elke,NL
+A,Prime,Uwide,PT026,Elke beer naderde een tent,bear_tent_m.bmp,snake_tent_m.bmp,Elke,NL
+A,Target,NA,PT005,Elke student viel een professor aan,student_professor_m.bmp,student_professor_s.bmp,Elke,NL
+A,Filler,NA,TrFiller59,De fotograaf tilde de stoel op,f_photographer_chair.bmp,f_painter_chair.bmp,Elke,NL
+A,Filler,NA,IntFiller74,Elke indiaan liep,nativeamerican_walk.bmp,soldier_walk.bmp,Elke,NL
+A,Prime,Ewide,PT025,Elk varken naderde een schuur,pig_barn_s.bmp,pig_bulldozer_s.bmp,Elke,NL
+A,Target,NA,PT069,Elke lijfwacht mepte een fan,bodyguard_fan_m.bmp,bodyguard_fan_s.bmp,Elke,NL
+A,Filler,NA,TrFiller52,De politieman ving de hoed,f_policeman_hat2.bmp,f_policeman_book2.bmp,Elke,NL
+A,Filler,NA,TrFiller25,De jongeman sloeg de grootvader,f_youngster_grandfather.bmp,f_youngster_captain.bmp,Elke,NL
+A,Filler,NA,TrFiller39,De musicus speelde de gitaar,f_entertainer_guitar.bmp,f_entertainer_accordion.bmp,Elke,NL
+A,Filler,NA,IntFiller11,Elke matroos knikte,sailor_nod.bmp,sailor_laugh.bmp,Elke,NL
+A,Prime,Ewide,PT071,Elke cowboy mepte een boer,cowboy_farmer_s.bmp,cowboy_cyclist_s.bmp,Elke,NL
+A,Target,NA,PT094,Elke musicus stal een piano,musician_piano_m.bmp,musician_piano_s.bmp,Elke,NL
+A,Filler,NA,IntFiller30,Elke kat sliep,cat_sleep.bmp,nativeamerican_sleep.bmp,Elke,NL
+A,Filler,NA,TrFiller53,De priester tilde de bijbel op,f_preacher_bible.bmp,f_gangster_bible.bmp,Elke,NL
+A,Filler,NA,IntFiller62,Elke duiker zweette,diver_sweat.bmp,prisoner_sweat.bmp,Elke,NL
+A,Prime,Ewide,PT057,Elke kunstenaar kietelde een matroos,artist_sailor_s.bmp,artist_monk_s.bmp,Elke,NL
+A,Target,NA,PT043,Elke verhuizer droeg een doos,mover_box_m.bmp,mover_box_s.bmp,Elke,NL
+A,Filler,NA,IntFiller27,Elke duiker huilde,diver_cry.bmp,witch_cry.bmp,Elke,NL
+A,Filler,NA,IntFiller45,Elke ski&eumlr rende,skier_run.bmp,skier_yawn.bmp,Elke,NL
+A,Filler,NA,TrFiller49,De politicus rook de wijn,f_politician_wine.bmp,f_politician_fish.bmp,Elke,NL
+A,Prime,Ewide,PT041,Elke mier droeg een brood,ant_bread_s.bmp,ant_banana_s.bmp,Elke,NL
+A,Target,NA,PT068,Elke professor kuste een monnik,professor_monk_m.bmp,professor_monk_s.bmp,Elke,NL
+A,Filler,NA,IntFiller38,Elke heks lachte,witch_laugh.bmp,witch_clap.bmp,Elke,NL
+A,Filler,NA,IntFiller37,Elke danser knikte,dancer_nod.bmp,nativeamerican_nod.bmp,Elke,NL
+A,Prime,Uwide,PT102,Elke vis volgde een orka,fish_orca_m.bmp,turtle_orca_m.bmp,Elke,NL
+A,Target,NA,PT034,Elke huurmoordenaar beschoot een zwemmer,assassin_swimmer_m.bmp,assassin_swimmer_s.bmp,Elke,NL
+A,Filler,NA,TrFiller50,De politieman bestrafte de soldaat,f_policeman_soldier.bmp,f_policeman_boxer.bmp,Elke,NL
+A,Filler,NA,IntFiller08,Elke prinses huilde,princess_cry.bmp,diver_cry.bmp,Elke,NL
+A,Filler,NA,TrFiller48,De piraat toonde het boek,f_pirate_book3.bmp,f_nun_book2.bmp,Elke,NL
+A,Prime,Uwide,PT108,Elke toerist zag een standbeeld,tourist_statue_m.bmp,monk_statue_m.bmp,Elke,NL
+A,Target,NA,PT070,Elke voetballer mepte een politieman,footballer_policeman_m.bmp,footballer_policeman_s.bmp,Elke,NL
+A,Filler,NA,TrFiller72,De vagebond speelde de trompet,f_bum_trumpet.bmp,f_genius_trumpet.bmp,Elke,NL
+A,Filler,NA,TrFiller06,De bakker stak de boef,f_baker_thief.bmp,f_swimmer_thief.bmp,Elke,NL
+A,Filler,NA,TrFiller12,De cowboy gooide de pistool,f_cowboy_gun.bmp,f_cowboy_banana2.bmp,Elke,NL
+A,Prime,Uwide,PT098,Elk konijn verfde een schilderij,rabbit_painting_m.bmp,wasp_painting_m.bmp,Elke,NL
+A,Target,NA,PT103,Elke aap volgde een kat,monkey_cat_m.bmp,monkey_cat_s.bmp,Elke,NL
+A,Filler,NA,IntFiller69,Elke brandweerman rende,fireman_run.bmp,boxer_run.bmp,Elke,NL
+A,Filler,NA,IntFiller64,Elke ridder rende,knight_run.bmp,knight_laugh.bmp,Elke,NL
+A,Filler,NA,IntFiller13,Elke gevangene liep,prisoner_walk.bmp,prisoner_yawn.bmp,Elke,NL
+A,Prime,Uwide,PT024,Elke aap beklom een muur,monkey_wall_m.bmp,cat_wall_m.bmp,Elke,NL
+A,Target,NA,PT093,Elke zwerver stal een bed,tramp_bed_m.bmp,tramp_bed_s.bmp,Elke,NL
+A,Filler,NA,IntFiller24,Elke monnik lachte,monk_laugh.bmp,monk_walk.bmp,Elke,NL
+A,Filler,NA,TrFiller17,De dierenarts kietelde de puppy,f_vet_puppy.bmp,f_vet_pony.bmp,Elke,NL
+A,Filler,NA,TrFiller77,De zakenvrouw duwde de saxofonist,f_businesswoman_saxophonist.bmp,f_businesswoman_astronomer.bmp,Elke,NL
+A,Filler,NA,TrFiller81,Het vriendinnetje hield de ketting vast,f_girlfriend_necklace.bmp,f_queen_necklace.bmp,Elke,NL
+A,Prime,Ewide,PT035,Elke Mexicaan beschoot een kan,Mexican_jug_s.bmp,paintballer_jug_s.bmp,Elke,NL
+A,Target,NA,PT091,Elke cowboy stak een arts,cowboy_doctor_m.bmp,cowboy_doctor_s.bmp,Elke,NL
+A,Filler,NA,IntFiller78,Elke indiaan glimlachte,nativeamerican_smile.bmp,nativeamerican_sleep.bmp,Elke,NL
+A,Filler,NA,IntFiller66,Elke ski&eumlr glimlachte,skier_smile.bmp,skier_sleep.bmp,Elke,NL
+A,Prime,Ewide,PT001,Elke kunstenaar raakte een ballerina aan,artist_ballerina_s.bmp,artist_skateboarder_s.bmp,Elke,NL
+A,Target,NA,PT097,Elke jongen verfde een muur,boy_wall_m.bmp,boy_wall_s.bmp,Elke,NL
+A,Filler,NA,IntFiller16,Elke ridder glimlachte,knight_smile.bmp,knight_skip.bmp,Elke,NL
+A,Filler,NA,TrFiller57,De panda at de appel,f_panda_apple.bmp,f_giraffe_apple.bmp,Elke,NL
+A,Prime,Uwide,PT007,Elke piraat viel een schip aan,pirate_ship_m.bmp,soldier_ship_m.bmp,Elke,NL
+A,Target,NA,PT074,Elke huisvrouw tikte een verkoper aan,housewife_salesman_m.bmp,housewife_salesman_s.bmp,Elke,NL
+A,Filler,NA,TrFiller23,De grootvader speelde de viool,f_grandfather_violin.bmp,f_maestro_violin.bmp,Elke,NL
+A,Filler,NA,TrFiller14,De cowboy stak de clown,f_cowboy_clown.bmp,f_nun_clown2.bmp,Elke,NL
+A,Prime,Uwide,PT082,Elke aristocraat rook een ijsje,aristocrat_icecream_m.bmp,wolf_icecream_m.bmp,Elke,NL
+A,Target,NA,PT092,Elke ridder stak een koningin,knight_queen_m.bmp,knight_queen_s.bmp,Elke,NL
+A,Filler,NA,TrFiller70,De professor kuste de visverkoper,f_schoolmistress_fishmonger.bmp,f_jogger_fishmonger.bmp,Elke,NL
+A,Filler,NA,TrFiller16,De detective rook de soep,f_detective_soup.bmp,f_burglar_soup.bmp,Elke,NL
+A,Prime,Ewide,PT051,Elke boef greep een zak,thief_sack_s.bmp,thief_painting_s.bmp,Elke,NL
+A,Target,NA,PT085,Elke acteur sloeg een cameraman,actor_cameraman_m.bmp,actor_cameraman_s.bmp,Elke,NL
+A,Filler,NA,TrFiller03,De artiest sloeg de arts,f_artist_doctor.bmp,f_artist_dancer.bmp,Elke,NL
+A,Filler,NA,IntFiller03,Elke brandweerman nieste,fireman_sneeze.bmp,diver_sneeze.bmp,Elke,NL
+A,Filler,NA,IntFiller22,Elke ridder nieste,knight_sneeze.bmp,knight_walk.bmp,Elke,NL
+A,Prime,Ewide,PT018,Elke bewaker bekeek een gevangene,guard_prisoner_s.bmp,guard_singer_s.bmp,Elke,NL
+A,Target,NA,PT021,Elke bergbeklimmer beklom een klif ,mountaineer_cliff_m.bmp,mountaineer_cliff_s.bmp,Elke,NL
+A,Filler,NA,IntFiller73,Elke heks gaapte,witch_yawn.bmp,witch_sneeze.bmp,Elke,NL
+A,Filler,NA,IntFiller40,Elke indiaan sprong,nativeamerican_skip.bmp,witch_skip.bmp,Elke,NL
+A,Filler,NA,TrFiller40,De non gooide het kopje,f_nun_cup.bmp,f_nun_gun.bmp,Elke,NL
+A,Prime,Uwide,PT019,Elke jongen bekeek een golfer,boy_golfer_m.bmp,mother_golfer_m.bmp,Elke,NL
+A,Target,NA,PT014,Elk meisje daalde een glijbaan af,girl_slider_m.bmp,girl_slider_s.bmp,Elke,NL
+A,Filler,NA,IntFiller80,Elke ski&eumlr lachte,skier_laugh.bmp,burglar_laugh.bmp,Elke,NL
+A,Filler,NA,TrFiller37,De monnik beschoot het kopje,f_monk_cup.bmp,f_baker_cup.bmp,Elke,NL
+A,Prime,Uwide,PT072,Elk dienstmeisje mepte een loodgieter,maid_plumber_m.bmp,granny_plumber_m.bmp,Elke,NL
+A,Target,NA,PT105,Elke tuinman zag een schep,gardener_spade_m.bmp,gardener_spade_s.bmp,Elke,NL
+A,Filler,NA,TrFiller46,De piraat presenteerde de bokser,f_pirate_boxer.bmp,f_nun_boxer.bmp,Elke,NL
+A,Filler,NA,IntFiller79,Elke indiaan gaapte,nativeamerican_yawn.bmp,fireman_yawn.bmp,Elke,NL
+A,Prime,Ewide,PT087,Elke bedelaar sloeg een journalist,beggar_reporter_s.bmp,beggar_doctor_s.bmp,Elke,NL
+A,Target,NA,PT054,Elke protesteerder herkende een vlag,protester_flag_m.bmp,protester_flag_s.bmp,Elke,NL
+A,Filler,NA,IntFiller31,Elke matroos liep,sailor_walk.bmp,skier_walk.bmp,Elke,NL
+A,Filler,NA,IntFiller68,Elke gevangene salueerde,prisoner_salute.bmp,prisoner_sleep.bmp,Elke,NL
+A,Prime,Uwide,PT013,Elke ballerina daalde een trap af,ballerina_stairs_m.bmp,cat_stairs_m.bmp,Elke,NL
+A,Target,NA,PT033,Elke jager beschoot een bal,hunter_ball_m.bmp,hunter_ball_s.bmp,Elke,NL
+A,Filler,NA,IntFiller04,Elke ski&eumlr sliep,skier_sleep.bmp,skier_sneeze.bmp,Elke,NL
+A,Filler,NA,IntFiller43,Elke brandweerman sprong,fireman_skip.bmp,skier_skip.bmp,Elke,NL
+A,Prime,Ewide,PT081,Elke politicus rook een taart,politician_cake_s.bmp,politician_hamburger_s.bmp,Elke,NL
+A,Target,NA,PT064,Elke cowboy knuppelde een zwemmer,cowboy_swimmer_m.bmp,cowboy_swimmer_s.bmp,Elke,NL
+A,Filler,NA,TrFiller43,De presentator hield het cadeau vast,f_announcer_gift.bmp,f_announcer_loudhailer.bmp,Elke,NL
+A,Filler,NA,TrFiller80,De barman ving de lepel,f_bartender_spoon.bmp,f_bartender_bottle.bmp,Elke,NL
+A,Filler,NA,TrFiller02,De artiest mepte de soldaat,f_artist_soldier.bmp,f_artist_clown.bmp,Elke,NL
+A,Filler,NA,IntFiller72,Elke soldaat liep,soldier_walk.bmp,prisoner_walk.bmp,Elke,NL
+A,Prime,Uwide,PT052,Elke portier greep een koffer,porter_suitcase_m.bmp,woman_suitcase_m.bmp,Elke,NL
+A,Target,NA,PT027,Elke hond naderde een kasteel,dog_castle_m.bmp,dog_castle_s.bmp,Elke,NL
+A,Filler,NA,IntFiller34,Elke ski&eumlr sprong,skier_skip.bmp,skier_laugh.bmp,Elke,NL
+A,Filler,NA,TrFiller38,De musicus speelde de harp,f_performer_harp.bmp,f_performer_flute.bmp,Elke,NL
+A,Prime,Uwide,PT078,Elke redder wees naar een heks,lifeguard_witch_m.bmp,woman_witch_m.bmp,Elke,NL
+A,Target,NA,PT039,Elke wetenschapper bestrafte een student,scientist_student_m.bmp,scientist_student_s.bmp,Elke,NL
+A,Filler,NA,IntFiller55,Elke ridder liep,knight_walk.bmp,knight_yawn.bmp,Elke,NL
+A,Filler,NA,IntFiller56,Elke heks glimlachte,witch_smile.bmp,witch_cry.bmp,Elke,NL
+A,Filler,NA,TrFiller32,De klimmer at de drumstick,f_convict_drumstick.bmp,f_climber_drumstick.bmp,Elke,NL
+A,Filler,NA,TrFiller68,De soldaat mepte de artiest,f_soldier_artist.bmp,f_clown_artist.bmp,Elke,NL
+A,Prime,Uwide,PT088,Elke professor sloeg een tiener,teacher_teenager_m.bmp,baker_teenager_m.bmp,Elke,NL
+A,Target,NA,PT049,Elke ridder greep een zwaard,knight_sword_m.bmp,knight_sword_s.bmp,Elke,NL
+A,Filler,NA,TrFiller36,De bouwvakker dronk de melk,f_workman_milk.bmp,f_workman_beer.bmp,Elke,NL
+A,Filler,NA,IntFiller12,Elke brandweerman glimlachte,fireman_smile.bmp,nativeamerican_smile.bmp,Elke,NL
+A,Prime,Uwide,PT062,Elke farao knuppelde een slaaf,farao_slave_m.bmp,policeman_slave_m.bmp,Elke,NL
+A,Target,NA,PT106,Elke gast zag een taart,diner_pudding_m.bmp,diner_pudding_s.bmp,Elke,NL
+A,Filler,NA,IntFiller39,Elke clown huilde,clown_cry.bmp,princess_cry.bmp,Elke,NL
+A,Filler,NA,IntFiller60,Elke indiaan nieste,nativeamerican_sneeze.bmp,nativeamerican_yawn.bmp,Elke,NL
+A,Filler,NA,TrFiller01,De aristocraat rook de sigaar,f_aristocrat_cigar.bmp,f_pope_cigar.bmp,Elke,NL
+A,Filler,NA,IntFiller29,Elke ridder huilde,knight_cry.bmp,diver_cry.bmp,Elke,NL
+A,Prime,Uwide,PT036,Elke drugsdealer beschoot een beer,drugdealer_bear_m.bmp,drugdealer_deer_m.bmp,Elke,NL
+A,Target,NA,PT029,Elke pelgrim bereed een ezel,pilgrim_donkey_m.bmp,pilgrim_donkey_s.bmp,Elke,NL
+A,Filler,NA,IntFiller09,Elke duiker salueerde,diver_salute.bmp,prisoner_salute.bmp,Elke,NL
+A,Filler,NA,TrFiller18,De drugsdealer beschoot het supermodel,f_drug_dealer_supermodel.bmp,f_climber_supermodel.bmp,Elke,NL
+A,Filler,NA,TrFiller61,De non toonde de taart,f_monk_cake.bmp,f_monk_banana.bmp,Elke,NL
+A,Prime,Ewide,PT045,Elke zakenvrouw duwde een trol,businesswoman_goblin_s.bmp,businesswoman_turtle_s.bmp,Elke,NL
+A,Target,NA,PT067,Elke serveerster bekeek een klant ,waitress_customer_m.bmp,waitress_customer_s.bmp,Elke,NL
+A,Filler,NA,IntFiller10,Elke matroos lachte,sailor_laugh.bmp,sailor_walk.bmp,Elke,NL
+A,Filler,NA,TrFiller67,De koningin hield de ketting vast,f_queen_necklace.bmp,f_girlfriend_necklace.bmp,Elke,NL
+A,Filler,NA,TrFiller27,De jager beschoot de beer,f_hunter_bear.bmp,f_hunter_eagle.bmp,Elke,NL
+A,Filler,NA,IntFiller54,Elke ridder lachte,knight_laugh.bmp,knight_run.bmp,Elke,NL
+A,Prime,Uwide,PT056,Elke ballerina herkende een taart,ballerina_cake_m.bmp,cheerleader_cake_m.bmp,Elke,NL
+A,Target,NA,PT030,Elke heks bereed een koe,witch_cow_m.bmp,witch_cow_s.bmp,Elke,NL
+A,Filler,NA,TrFiller62,De schilder tilde de stoel op,f_painter_chair.bmp,f_photographer_chair.bmp,Elke,NL
+A,Filler,NA,TrFiller22,De fee raakte de draak aan,f_pixie_dragon.bmp,f_pixie_unicorn.bmp,Elke,NL
+A,Filler,NA,IntFiller59,Elke duiker nieste,diver_sneeze.bmp,knight_sneeze.bmp,Elke,NL
+A,Filler,NA,TrFiller56,De professor bestrafte de soldaat,f_professor_soldier.bmp,f_policeman_soldier.bmp,Elke,NL
+A,Prime,Ewide,PT107,Elke vos zag een taart,fox_pie_s.bmp,fox_banana_s.bmp,Elke,NL
+A,Target,NA,PT060,Elke monnik kietelde een monteur,monk_mechanic_m.bmp,monk_mechanic_s.bmp,Elke,NL
+A,Filler,NA,TrFiller60,De punker duwde de professor,f_punk_headmaster.bmp,f_athlete_headmaster.bmp,Elke,NL
+A,Filler,NA,TrFiller47,De piraat tilde het kopje op,f_pirate_cup2.bmp,f_baker_cup2.bmp,Elke,NL
+A,Filler,NA,TrFiller05,De astronaat raakte de pati&eumlnt aan,f_astronaut_patient.bmp,f_preacher_patient.bmp,Elke,NL
+A,Prime,Ewide,PT075,Elke verpleegster tikte een zigeuner aan,nurse_gypsy_s.bmp,nurse_boxer_s.bmp,Elke,NL
+A,Target,NA,PT040,Elke engel bestrafte een monster,angel_monster_m.bmp,angel_monster_s.bmp,Elke,NL
+A,Filler,NA,TrFiller34,De kok duwde de hoed,f_chef_hat.bmp,f_nun_hat2.bmp,Elke,NL
+A,Filler,NA,TrFiller64,De serveerster at de taart,f_waitress_cake.bmp,f_professor_cake.bmp,Elke,NL
+A,Filler,NA,IntFiller47,Elke heks klapte,witch_clap.bmp,witch_cry.bmp,Elke,NL
+A,Filler,NA,TrFiller26,De jager beschoot de adelaar,f_hunter_eagle.bmp,f_hunter_bear.bmp,Elke,NL
+A,Prime,Ewide,PT023,Elke haai viel een surfer aan,shark_surfer_s.bmp,shark_swimmer_s.bmp,Elke,NL
+A,Target,NA,PT048,Elke zwemmer duwde een ballerina,swimmer_ballerina_m.bmp,swimmer_ballerina_s.bmp,Elke,NL
+A,Filler,NA,IntFiller48,Elke gevangene glimlachte,prisoner_smile.bmp,prisoner_sweat.bmp,Elke,NL
+A,Filler,NA,IntFiller57,Elke ski&eumlr gaapte,skier_yawn.bmp,skier_walk.bmp,Elke,NL
+A,Filler,NA,IntFiller33,Elke kat liep,cat_walk.bmp,cat_sleep.bmp,Elke,NL
+A,Prime,Ewide,PT022,Elk kind bereed een olifant,child_elephant_s.bmp,child_camel_s.bmp,Elke,NL
+A,Target,NA,PT084,Elke detective rook een muffin,detective_muffin_m.bmp,detective_muffin_s.bmp,Elke,NL
+A,Filler,NA,TrFiller29,De jongen sloeg de trainer,f_brat_trainer.bmp,f_brat_nerd.bmp,Elke,NL
+A,Filler,NA,IntFiller21,Elke ridder gaapte,knight_yawn.bmp,knight_sneeze.bmp,Elke,NL
+A,Prime,Ewide,PT095,Elke boef stal een auto,robber_car_s.bmp,robber_bicycle_s.bmp,Elke,NL
+A,Target,NA,PT028,Elke kat naderde een hut,cat_shed_m.bmp,cat_shed_s.bmp,Elke,NL
+A,Filler,NA,IntFiller02,Elke indiaan sliep,nativeamerican_sleep.bmp,fireman_sleep.bmp,Elke,NL
+A,Filler,NA,IntFiller44,Elke duiker glimlachte,diver_smile.bmp,witch_smile.bmp,Elke,NL
+A,Filler,NA,TrFiller15,De cowboy ving de bal,f_cowboy_ball.bmp,f_policeman_ball.bmp,Elke,NL
+A,Prime,Uwide,PT090,Elke non stak een trol,nun_goblin_m.bmp,robot_goblin_m.bmp,Elke,NL
+A,Target,NA,PT059,Elke boef kietelde een arts,burglar_doctor_m.bmp,burglar_doctor_s.bmp,Elke,NL
+A,Filler,NA,IntFiller46,Elke duiker klapte,diver_clap.bmp,fireman_clap.bmp,Elke,NL
+A,Filler,NA,TrFiller66,De presentator hield de megafoon vast,f_announcer_loudhailer.bmp,f_announcer_gift.bmp,Elke,NL
+A,Filler,NA,IntFiller58,Elke ridder sprong,knight_skip.bmp,prisoner_skip.bmp,Elke,NL
+A,Filler,NA,TrFiller09,De kip benaderde de iglo,f_chicken_iglo.bmp,f_chicken_tree.bmp,Elke,NL
+A,Prime,Uwide,PT046,Elke kok duwde een zwemmer,chef_swimmer_m.bmp,monk_swimmer_m.bmp,Elke,NL
+A,Target,NA,PT020,Elke wandelaar beklom een heuvel,hiker_hill_m.bmp,hiker_hill_s.bmp,Elke,NL
+A,Filler,NA,TrFiller69,De sporter duwde de bankier,f_sportsman_banker.bmp,f_drunk_banker.bmp,Elke,NL
+A,Filler,NA,TrFiller65,De serveerster kietelde de boef,f_waitress_burglar.bmp,f_waitress_dancer.bmp,Elke,NL
+A,Filler,NA,IntFiller07,Elke indiaan klapte,nativeamerican_clap.bmp,witch_clap.bmp,Elke,NL
+A,Filler,NA,TrFiller51,De politieman gooide de appel,f_policeman_apple.bmp,f_policeman_hat.bmp,Elke,NL
+A,Prime,Uwide,PT058,Elke matador kietelde een detective,matador_detective_m.bmp,artist_detective_m.bmp,Elke,NL
+A,Target,NA,PT079,Elke kabouter wees naar een brandweerman,gnome_fireman_m.bmp,gnome_fireman_s.bmp,Elke,NL
+A,Filler,NA,TrFiller41,De wetenschapper bekritiseerde de schrijver,f_scientist_writer.bmp,f_angel_writer.bmp,Elke,NL
+A,Filler,NA,TrFiller75,De vrouw bekritiseerde de moordenaar,f_girlfriend_killer.bmp,f_pimp_killer.bmp,Elke,NL
+A,Filler,NA,IntFiller77,Elke brandweerman liep,fireman_walk.bmp,sailor_walk.bmp,Elke,NL
+A,Prime,Uwide,PT002,Elke astronaut raakte een microfoon aan,astronaut_microphone_m.bmp,pixie_microphone_m.bmp,Elke,NL
+A,Target,NA,PT017,Elke serveerste kuste een soldaat,waitress_soldier_m.bmp,waitress_soldier_s.bmp,Elke,NL
+A,Filler,NA,IntFiller76,Elke indiaan knikte,nativeamerican_nod.bmp,nativeamerican_sleep.bmp,Elke,NL
+A,Filler,NA,TrFiller08,De barman ving de fles,f_bartender_bottle.bmp,f_bartender_spoon.bmp,Elke,NL
+A,Filler,NA,TrFiller73,De non toonde het boek,f_nun_book2.bmp,f_pirate_book3.bmp,Elke,NL
+A,Prime,Ewide,PT101,Elke ridder volgde een monnik,knight_monk_s.bmp,knight_scout_s.bmp,Elke,NL
+A,Target,NA,PT050,Elke kok greep een bord,chef_platter_m.bmp,chef_platter_s.bmp,Elke,NL
+A,Filler,NA,IntFiller18,Elke gevangene gaapte,prisoner_yawn.bmp,nativeamerican_yawn.bmp,Elke,NL
+A,Filler,NA,TrFiller19,De engel bekritiseerde de schrijver,f_angel_writer.bmp,f_scientist_writer.bmp,Elke,NL
+A,Filler,NA,IntFiller81,Elke zwemmer rende,swimmer_run.bmp,skier_run.bmp,Elke,NL
+A,Prime,Uwide,PT076,Elke kleuter tikte een predikant aan,toddler_vicar_m.bmp,surgeon_vicar_m.bmp,Elke,NL
+A,Target,NA,PT100,Elke tovenaar verfde een deur,wizard_door_m.bmp,wizard_door_s.bmp,Elke,NL
+A,Filler,NA,TrFiller55,De professor bekritiseerde de bokser,f_professor_boxer.bmp,f_policeman_boxer.bmp,Elke,NL
+A,Filler,NA,IntFiller51,Elke gevangene sprong,prisoner_skip.bmp,prisoner_clap.bmp,Elke,NL
+A,Filler,NA,IntFiller42,Elke heks huilde,witch_cry.bmp,witch_laugh.bmp,Elke,NL
+A,Filler,NA,IntFiller35,Elke ridder klapte,knight_clap.bmp,knight_skip.bmp,Elke,NL
+A,Prime,Ewide,PT099,Elke klusjesman verfde een reclamebord,handyman_billboard_s.bmp,handyman_church_s.bmp,Elke,NL
+A,Target,NA,PT004,Elk meisje raakte een drumstel aan,girl_drumkit_m.bmp,girl_drumkit_s.bmp,Elke,NL
+A,Filler,NA,TrFiller11,De bruid bestrafte de bloemist,f_bride_florist.bmp,f_bride_seamstress.bmp,Elke,NL
+A,Filler,NA,IntFiller26,Elke boef lachte,burglar_laugh.bmp,knight_laugh.bmp,Elke,NL
+A,Prime,Uwide,PT096,Elke ober stal een handtas,waiter_handbag_m.bmp,pilot_handbag_m.bmp,Elke,NL
+A,Target,NA,PT080,Elke arts wees naar een serveerster,doctor_waitress_m.bmp,doctor_waitress_s.bmp,Elke,NL
+A,Filler,NA,TrFiller33,De koerier kietelde de presentator,f_courier_speaker.bmp,f_matador_speaker.bmp,Elke,NL
+A,Filler,NA,IntFiller19,Elke heks sprong,witch_skip.bmp,witch_laugh.bmp,Elke,NL
+A,Filler,NA,TrFiller42,De non toonde de banaan,f_monk_banana.bmp,f_monk_cake.bmp,Elke,NL
+A,Prime,Ewide,PT077,Elke serveerster wees naar een klusjesman ,waitress_handyman_s.bmp,waitress_dinosaur_s.bmp,Elke,NL
+A,Target,NA,PT053,Elke zakenman herkende een krant,commuter_newspaper_m.bmp,commuter_newspaper_s.bmp,Elke,NL
+A,Filler,NA,TrFiller54,De prinses kuste de reus,f_princess_giant.bmp,f_elf_giant.bmp,Elke,NL
+A,Filler,NA,TrFiller13,De cowboy mepte de arts,f_cowboy_doctor.bmp,f_cowboy_burglar.bmp,Elke,NL
+A,Prime,Ewide,PT055,Elke matroos herkende een vliegtuig,sailor_airplane_s.bmp,sailor_lighthouse_s.bmp,Elke,NL
+A,Target,NA,PT104,Elke olifant volgde een wasbeer,elephant_racoon_m.bmp,elephant_racoon_s.bmp,Elke,NL
+A,Filler,NA,IntFiller01,Elke bokser knikte,boxer_nod.bmp,fireman_nod.bmp,Elke,NL
+A,Filler,NA,IntFiller65,Elke danser lachte,dancer_laugh.bmp,sailor_laugh.bmp,Elke,NL
+A,Prime,Ewide,PT031,Elk kind beklom een ladder,kid_ladder_s.bmp,kid_tree_s.bmp,Elke,NL
+A,Target,NA,PT006,Elke gek viel een standbeeld aan,madman_sculpture_m.bmp,madman_sculpture_s.bmp,Elke,NL
+A,Filler,NA,IntFiller28,Elke gevangene rende,prisoner_run.bmp,nativeamerican_run.bmp,Elke,NL
+A,Filler,NA,IntFiller52,Elke brandweerman klapte,fireman_clap.bmp,diver_clap.bmp,Elke,NL
+A,Prime,Ewide,PT089,Elke vampier stak een saxofonist,vampire_saxophonist_s.bmp,vampire_woman_s.bmp,Elke,NL
+A,Target,NA,PT047,Elke non duwde een clown,nun_clown_m.bmp,nun_clown_s.bmp,Elke,NL
+A,Filler,NA,IntFiller61,Elke arts liep,doctor_walk.bmp,monk_walk.bmp,Elke,NL
+A,Filler,NA,TrFiller10,De bouwvakker dronk het biertje,f_workman_beer.bmp,f_workman_milk.bmp,Elke,NL
+A,Filler,NA,TrFiller63,De schoonmaker kuste de serveerster,f_caretaker_matron.bmp,f_caretaker_infant.bmp,Elke,NL
+A,Filler,NA,TrFiller04,De bakker presenteerde de kampioen,f_baker_champion.bmp,f_baker_pope.bmp,Elke,NL
+A,Prime,Uwide,PT032,Elke jongen bereed een eenhoorn,schoolboy_unicorn_m.bmp,schoolboy_moose_m.bmp,Elke,NL
+A,Target,NA,PT009,Elke leeuw achtervolgde een dierenverzorger,lion_zookeeper_m.bmp,lion_zookeeper_s.bmp,Elke,NL
+A,Filler,NA,TrFiller79,Het meisje raakte de fee aan,f_girl_fairy.bmp,f_girl_champion.bmp,Elke,NL
+A,Filler,NA,TrFiller74,De vos benaderde de auto,f_fox_car.bmp,f_fox_pool.bmp,Elke,NL
+A,Filler,NA,IntFiller67,Elke bokser rende,boxer_run.bmp,policeman_run.bmp,Elke,NL
+A,Filler,NA,IntFiller71,Elke gevangene nieste,prisoner_sneeze.bmp,prisoner_skip.bmp,Elke,NL
+A,Prime,Uwide,PT011,Elke dwerg achtervolgde een clown,dwarf_clown_m.bmp,dancer_clown_m.bmp,Elke,NL
+A,Target,NA,PT003,Elke fee raakte een zebra aan,pixie_zebra_m.bmp,pixie_zebra_s.bmp,Elke,NL
+A,Filler,NA,TrFiller45,De reiziger dronk de koffie,f_passenger_coffee.bmp,f_popstar_coffee.bmp,Elke,NL
+A,Filler,NA,IntFiller23,Elke duiker gaapte,diver_yawn.bmp,knight_yawn.bmp,Elke,NL
+A,Filler,NA,TrFiller30,De zwemmer stak de boef,f_swimmer_thief.bmp,f_baker_thief.bmp,Elke,NL
+A,Prime,Ewide,PT010,Elke hond achtervoglde een eekhoorn,dog_squirrel_s.bmp,dog_rabbit_s.bmp,Elke,NL
+A,Target,NA,PT063,Elke non knuppelde een ballerina,nun_ballerina_m.bmp,nun_ballerina_s.bmp,Elke,NL
+A,Filler,NA,IntFiller20,Elke brandweerman knikte,fireman_nod.bmp,boxer_nod.bmp,Elke,NL
+A,Filler,NA,IntFiller53,Elke politieman rende,policeman_run.bmp,waitress_run.bmp,Elke,NL
+A,Filler,NA,TrFiller71,De giraffe at de appel,f_giraffe_apple.bmp,f_panda_apple.bmp,Elke,NL
+A,Prime,Ewide,PT012,Elke ski&eumlr daalde een berg af,skier_mountain_s.bmp,skier_mushroom_s.bmp,Elke,NL
+A,Target,NA,PT073,Elke non tikte een baby aan,nun_baby_m.bmp,nun_baby_s.bmp,Elke,NL
+A,Filler,NA,IntFiller63,Elke brandweerman lachte,fireman_laugh.bmp,skier_laugh.bmp,Elke,NL
+A,Filler,NA,TrFiller20,De engel rook de bloem,f_angel_flower.bmp,f_angel_perfume.bmp,Elke,NL
+A,Filler,NA,IntFiller41,Elke monnik liep,monk_walk.bmp,monk_laugh.bmp,Elke,NL
+A,Filler,NA,IntFiller70,Elke indiaan rende,nativeamerican_run.bmp,prisoner_run.bmp,Elke,NL
+A,Prime,Ewide,PT037,Elke professor bestrafte een matroos,professor_sailor_s.bmp,professor_dog_s.bmp,Elke,NL
+A,Target,NA,PT016,Elk schoolmeisje bekeek een vogel,schoolgirl_bird_m.bmp,schoolgirl_bird_s.bmp,Elke,NL
+A,Filler,NA,TrFiller35,De leeuw benaderde de waterval,f_lion_waterfall.bmp,f_moose_waterfall.bmp,Elke,NL
+A,Filler,NA,TrFiller24,De hardloper kuste de visverkoper,f_jogger_fishmonger.bmp,f_schoolmistress_fishmonger.bmp,Elke,NL
+A,Filler,NA,IntFiller17,Elke gevangene zweette,prisoner_sweat.bmp,prisoner_sneeze.bmp,Elke,NL
+A,Prime,Uwide,PT066,Elke non kuste een clown,nun_clown_m.bmp,horserider_clown_m.bmp,Elke,NL
+A,Target,NA,PT044,Elke kok droeg een koffer,chef_suitcase_m.bmp,chef_suitcase_s.bmp,Elke,NL
+A,Filler,NA,IntFiller49,Elke ski&eumlr liep,skier_walk.bmp,skier_sleep.bmp,Elke,NL
+A,Filler,NA,IntFiller15,Elke ski&eumlr knikte,skier_nod.bmp,skier_run.bmp,Elke,NL
+A,Filler,NA,TrFiller28,De jongeman sloeg de kapitein,f_youngster_captain.bmp,f_youngster_grandfather.bmp,Elke,NL
+A,Prime,Uwide,PT042,Elke bij droeg een aardbei,bee_strawberry_m.bmp,fly_strawberry_m.bmp,Elke,NL
+A,Target,NA,PT015,Elke wielrenner daalde een weg af,cyclist_road_m.bmp,cyclist_road_s.bmp,Elke,NL
+A,Filler,NA,IntFiller36,Elke ski&eumlr nieste,skier_sneeze.bmp,skier_smile.bmp,Elke,NL
+A,Filler,NA,IntFiller06,Elke gevangene sliep,prisoner_sleep.bmp,prisoner_run.bmp,Elke,NL
+A,Filler,NA,IntFiller50,Elke heks nieste,witch_sneeze.bmp,skier_sneeze.bmp,Elke,NL
+A,Filler,NA,TrFiller58,De professor raakte het boek aan,f_teacher_book.bmp,f_artist_book.bmp,Elke,NL
+A,Filler,NA,TrFiller78,Het kleinkind kietelde de virtuoos,f_grandchild_virtuoso.bmp,f_stewardess_virtuoso.bmp,Elke,NL
+A,Prime,Uwide,PT038,Elke politieman bestrafte een monnik,policeman_monk_m.bmp,theatre_actor_monk_m.bmp,Elke,NL
+A,Target,NA,PT008,Elke beveiliger achtervolgde een schoonmaker,bouncer_cleaner_m.bmp,bouncer_cleaner_s.bmp,Elke,NL
+B,Filler,NA,TrFiller33,De koerier kietelde de presentator,f_courier_speaker.bmp,f_matador_speaker.bmp,Elke,NL
+B,Filler,NA,TrFiller77,De zakenvrouw duwde de saxofonist,f_businesswoman_saxophonist.bmp,f_businesswoman_astronomer.bmp,Elke,NL
+B,Filler,NA,IntFiller75,Elke brandweerman sliep,fireman_sleep.bmp,skier_sleep.bmp,Elke,NL
+B,Filler,NA,TrFiller55,De professor bekritiseerde de bokser,f_professor_boxer.bmp,f_policeman_boxer.bmp,Elke,NL
+B,Prime,Uwide,PT099,Elke klusjesman verfde een reclamebord,handyman_billboard_m.bmp,handyman_church_m.bmp,Elke,NL
+B,Target,NA,PT004,Elk meisje raakte een drumstel aan,girl_drumkit_m.bmp,girl_drumkit_s.bmp,Elke,NL
+B,Filler,NA,IntFiller66,Elke ski&eumlr glimlachte,skier_smile.bmp,skier_sleep.bmp,Elke,NL
+B,Filler,NA,TrFiller72,De vagebond speelde de trompet,f_bum_trumpet.bmp,f_genius_trumpet.bmp,Elke,NL
+B,Filler,NA,TrFiller18,De drugsdealer beschoot het supermodel,f_drug_dealer_supermodel.bmp,f_climber_supermodel.bmp,Elke,NL
+B,Filler,NA,IntFiller18,Elke gevangene gaapte,prisoner_yawn.bmp,nativeamerican_yawn.bmp,Elke,NL
+B,Prime,Uwide,PT010,Elke hond achtervoglde een eekhoorn,dog_squirrel_m.bmp,dog_rabbit_m.bmp,Elke,NL
+B,Target,NA,PT063,Elke non knuppelde een ballerina,nun_ballerina_m.bmp,nun_ballerina_s.bmp,Elke,NL
+B,Filler,NA,TrFiller65,De serveerster kietelde de boef,f_waitress_burglar.bmp,f_waitress_dancer.bmp,Elke,NL
+B,Filler,NA,TrFiller11,De bruid bestrafte de bloemist,f_bride_florist.bmp,f_bride_seamstress.bmp,Elke,NL
+B,Prime,Ewide,PT019,Elke jongen bekeek een golfer,boy_golfer_s.bmp,mother_golfer_s.bmp,Elke,NL
+B,Target,NA,PT014,Elk meisje daalde een glijbaan af,girl_slider_m.bmp,girl_slider_s.bmp,Elke,NL
+B,Filler,NA,TrFiller53,De priester tilde de bijbel op,f_preacher_bible.bmp,f_gangster_bible.bmp,Elke,NL
+B,Filler,NA,TrFiller47,De piraat tilde het kopje op,f_pirate_cup2.bmp,f_baker_cup2.bmp,Elke,NL
+B,Filler,NA,IntFiller05,Elke serveerste rende,waitress_run.bmp,policeman_run.bmp,Elke,NL
+B,Prime,Ewide,PT088,Elke professor sloeg een tiener,teacher_teenager_s.bmp,baker_teenager_s.bmp,Elke,NL
+B,Target,NA,PT049,Elke ridder greep een zwaard,knight_sword_m.bmp,knight_sword_s.bmp,Elke,NL
+B,Filler,NA,TrFiller04,De bakker presenteerde de kampioen,f_baker_champion.bmp,f_baker_pope.bmp,Elke,NL
+B,Filler,NA,TrFiller48,De piraat toonde het boek,f_pirate_book3.bmp,f_nun_book2.bmp,Elke,NL
+B,Prime,Ewide,PT042,Elke bij droeg een aardbei,bee_strawberry_s.bmp,fly_strawberry_s.bmp,Elke,NL
+B,Target,NA,PT015,Elke wielrenner daalde een weg af,cyclist_road_m.bmp,cyclist_road_s.bmp,Elke,NL
+B,Filler,NA,IntFiller73,Elke heks gaapte,witch_yawn.bmp,witch_sneeze.bmp,Elke,NL
+B,Filler,NA,TrFiller44,De piraat gooide het boek,f_pirate_book.bmp,f_cowboy_book.bmp,Elke,NL
+B,Filler,NA,IntFiller08,Elke prinses huilde,princess_cry.bmp,diver_cry.bmp,Elke,NL
+B,Filler,NA,TrFiller02,De artiest mepte de soldaat,f_artist_soldier.bmp,f_artist_clown.bmp,Elke,NL
+B,Prime,Ewide,PT032,Elke jongen bereed een eenhoorn,schoolboy_unicorn_s.bmp,schoolboy_moose_s.bmp,Elke,NL
+B,Target,NA,PT009,Elke leeuw achtervolgde een dierenverzorger,lion_zookeeper_m.bmp,lion_zookeeper_s.bmp,Elke,NL
+B,Filler,NA,TrFiller57,De panda at de appel,f_panda_apple.bmp,f_giraffe_apple.bmp,Elke,NL
+B,Filler,NA,IntFiller32,Elke indiaan zweette,nativeamerican_sweat.bmp,nativeamerican_smile.bmp,Elke,NL
+B,Filler,NA,IntFiller52,Elke brandweerman klapte,fireman_clap.bmp,diver_clap.bmp,Elke,NL
+B,Prime,Uwide,PT012,Elke ski&eumlr daalde een berg af,skier_mountain_m.bmp,skier_mushroom_m.bmp,Elke,NL
+B,Target,NA,PT073,Elke non tikte een baby aan,nun_baby_m.bmp,nun_baby_s.bmp,Elke,NL
+B,Filler,NA,IntFiller49,Elke ski&eumlr liep,skier_walk.bmp,skier_sleep.bmp,Elke,NL
+B,Filler,NA,TrFiller80,De barman ving de lepel,f_bartender_spoon.bmp,f_bartender_bottle.bmp,Elke,NL
+B,Filler,NA,TrFiller81,Het vriendinnetje hield de ketting vast,f_girlfriend_necklace.bmp,f_queen_necklace.bmp,Elke,NL
+B,Filler,NA,IntFiller50,Elke heks nieste,witch_sneeze.bmp,skier_sneeze.bmp,Elke,NL
+B,Prime,Uwide,PT081,Elke politicus rook een taart,politician_cake_m.bmp,politician_hamburger_m.bmp,Elke,NL
+B,Target,NA,PT064,Elke cowboy knuppelde een zwemmer,cowboy_swimmer_m.bmp,cowboy_swimmer_s.bmp,Elke,NL
+B,Filler,NA,TrFiller40,De non gooide het kopje,f_nun_cup.bmp,f_nun_gun.bmp,Elke,NL
+B,Filler,NA,TrFiller52,De politieman ving de hoed,f_policeman_hat2.bmp,f_policeman_book2.bmp,Elke,NL
+B,Filler,NA,TrFiller30,De zwemmer stak de boef,f_swimmer_thief.bmp,f_baker_thief.bmp,Elke,NL
+B,Prime,Ewide,PT096,Elke ober stal een handtas,waiter_handbag_s.bmp,pilot_handbag_s.bmp,Elke,NL
+B,Target,NA,PT080,Elke arts wees naar een serveerster,doctor_waitress_m.bmp,doctor_waitress_s.bmp,Elke,NL
+B,Filler,NA,IntFiller67,Elke bokser rende,boxer_run.bmp,policeman_run.bmp,Elke,NL
+B,Filler,NA,IntFiller80,Elke ski&eumlr lachte,skier_laugh.bmp,burglar_laugh.bmp,Elke,NL
+B,Filler,NA,IntFiller12,Elke brandweerman glimlachte,fireman_smile.bmp,nativeamerican_smile.bmp,Elke,NL
+B,Prime,Uwide,PT055,Elke matroos herkende een vliegtuig,sailor_airplane_m.bmp,sailor_lighthouse_m.bmp,Elke,NL
+B,Target,NA,PT104,Elke olifant volgde een wasbeer,elephant_racoon_m.bmp,elephant_racoon_s.bmp,Elke,NL
+B,Filler,NA,TrFiller08,De barman ving de fles,f_bartender_bottle.bmp,f_bartender_spoon.bmp,Elke,NL
+B,Filler,NA,TrFiller62,De schilder tilde de stoel op,f_painter_chair.bmp,f_photographer_chair.bmp,Elke,NL
+B,Filler,NA,TrFiller75,De vrouw bekritiseerde de moordenaar,f_girlfriend_killer.bmp,f_pimp_killer.bmp,Elke,NL
+B,Prime,Uwide,PT025,Elk varken naderde een schuur,pig_barn_m.bmp,pig_bulldozer_m.bmp,Elke,NL
+B,Target,NA,PT069,Elke lijfwacht mepte een fan,bodyguard_fan_m.bmp,bodyguard_fan_s.bmp,Elke,NL
+B,Filler,NA,TrFiller70,De professor kuste de visverkoper,f_schoolmistress_fishmonger.bmp,f_jogger_fishmonger.bmp,Elke,NL
+B,Filler,NA,IntFiller29,Elke ridder huilde,knight_cry.bmp,diver_cry.bmp,Elke,NL
+B,Prime,Uwide,PT022,Elk kind bereed een olifant,child_elephant_m.bmp,child_camel_m.bmp,Elke,NL
+B,Target,NA,PT084,Elke detective rook een muffin,detective_muffin_m.bmp,detective_muffin_s.bmp,Elke,NL
+B,Filler,NA,IntFiller20,Elke brandweerman knikte,fireman_nod.bmp,boxer_nod.bmp,Elke,NL
+B,Filler,NA,IntFiller38,Elke heks lachte,witch_laugh.bmp,witch_clap.bmp,Elke,NL
+B,Filler,NA,IntFiller19,Elke heks sprong,witch_skip.bmp,witch_laugh.bmp,Elke,NL
+B,Filler,NA,TrFiller63,De schoonmaker kuste de serveerster,f_caretaker_matron.bmp,f_caretaker_infant.bmp,Elke,NL
+B,Prime,Ewide,PT066,Elke non kuste een clown,nun_clown_s.bmp,horserider_clown_s.bmp,Elke,NL
+B,Target,NA,PT044,Elke kok droeg een koffer,chef_suitcase_m.bmp,chef_suitcase_s.bmp,Elke,NL
+B,Filler,NA,IntFiller03,Elke brandweerman nieste,fireman_sneeze.bmp,diver_sneeze.bmp,Elke,NL
+B,Filler,NA,IntFiller61,Elke arts liep,doctor_walk.bmp,monk_walk.bmp,Elke,NL
+B,Filler,NA,TrFiller67,De koningin hield de ketting vast,f_queen_necklace.bmp,f_girlfriend_necklace.bmp,Elke,NL
+B,Prime,Uwide,PT077,Elke serveerster wees naar een klusjesman,waitress_handyman_m.bmp,waitress_dinosaur_m.bmp,Elke,NL
+B,Target,NA,PT053,Elke zakenman herkende een krant,commuter_newspaper_m.bmp,commuter_newspaper_s.bmp,Elke,NL
+B,Filler,NA,IntFiller36,Elke ski&eumlr nieste,skier_sneeze.bmp,skier_smile.bmp,Elke,NL
+B,Filler,NA,IntFiller63,Elke brandweerman lachte,fireman_laugh.bmp,skier_laugh.bmp,Elke,NL
+B,Filler,NA,IntFiller16,Elke ridder glimlachte,knight_smile.bmp,knight_skip.bmp,Elke,NL
+B,Prime,Ewide,PT007,Elke piraat viel een schip aan,pirate_ship_s.bmp,soldier_ship_s.bmp,Elke,NL
+B,Target,NA,PT074,Elke huisvrouw tikte een verkoper aan,housewife_salesman_m.bmp,housewife_salesman_s.bmp,Elke,NL
+B,Filler,NA,TrFiller15,De cowboy ving de bal,f_cowboy_ball.bmp,f_policeman_ball.bmp,Elke,NL
+B,Filler,NA,TrFiller10,De bouwvakker dronk het biertje,f_workman_beer.bmp,f_workman_milk.bmp,Elke,NL
+B,Filler,NA,IntFiller51,Elke gevangene sprong,prisoner_skip.bmp,prisoner_clap.bmp,Elke,NL
+B,Prime,Ewide,PT038,Elke politieman bestrafte een monnik,policeman_monk_s.bmp,theatre_actor_monk_s.bmp,Elke,NL
+B,Target,NA,PT008,Elke beveiliger achtervolgde een schoonmaker,bouncer_cleaner_m.bmp,bouncer_cleaner_s.bmp,Elke,NL
+B,Filler,NA,IntFiller34,Elke ski&eumlr sprong,skier_skip.bmp,skier_laugh.bmp,Elke,NL
+B,Filler,NA,TrFiller73,De non toonde het boek,f_nun_book2.bmp,f_pirate_book3.bmp,Elke,NL
+B,Prime,Uwide,PT041,Elke mier droeg een brood,ant_bread_m.bmp,ant_banana_m.bmp,Elke,NL
+B,Target,NA,PT068,Elke professor kuste een monnik,professor_monk_m.bmp,professor_monk_s.bmp,Elke,NL
+B,Filler,NA,IntFiller27,Elke duiker huilde,diver_cry.bmp,witch_cry.bmp,Elke,NL
+B,Filler,NA,TrFiller09,De kip benaderde de iglo,f_chicken_iglo.bmp,f_chicken_tree.bmp,Elke,NL
+B,Filler,NA,TrFiller29,De jongen sloeg de trainer,f_brat_trainer.bmp,f_brat_nerd.bmp,Elke,NL
+B,Prime,Ewide,PT076,Elke kleuter tikte een predikant aan,toddler_vicar_s.bmp,surgeon_vicar_s.bmp,Elke,NL
+B,Target,NA,PT100,Elke tovenaar verfde een deur,wizard_door_m.bmp,wizard_door_s.bmp,Elke,NL
+B,Filler,NA,IntFiller13,Elke gevangene liep,prisoner_walk.bmp,prisoner_yawn.bmp,Elke,NL
+B,Filler,NA,IntFiller21,Elke ridder gaapte,knight_yawn.bmp,knight_sneeze.bmp,Elke,NL
+B,Filler,NA,IntFiller25,Elke gevangene klapte,prisoner_clap.bmp,prisoner_yawn.bmp,Elke,NL
+B,Prime,Uwide,PT035,Elke Mexicaan beschoot een kan,Mexican_jug_m.bmp,paintballer_jug_m.bmp,Elke,NL
+B,Target,NA,PT091,Elke cowboy stak een arts,cowboy_doctor_m.bmp,cowboy_doctor_s.bmp,Elke,NL
+B,Filler,NA,IntFiller09,Elke duiker salueerde,diver_salute.bmp,prisoner_salute.bmp,Elke,NL
+B,Filler,NA,IntFiller10,Elke matroos lachte,sailor_laugh.bmp,sailor_walk.bmp,Elke,NL
+B,Filler,NA,IntFiller57,Elke ski&eumlr gaapte,skier_yawn.bmp,skier_walk.bmp,Elke,NL
+B,Filler,NA,TrFiller13,De cowboy mepte de arts,f_cowboy_doctor.bmp,f_cowboy_burglar.bmp,Elke,NL
+B,Prime,Ewide,PT072,Elk dienstmeisje mepte een loodgieter,maid_plumber_s.bmp,granny_plumber_s.bmp,Elke,NL
+B,Target,NA,PT105,Elke tuinman zag een schep,gardener_spade_m.bmp,gardener_spade_s.bmp,Elke,NL
+B,Filler,NA,IntFiller68,Elke gevangene salueerde,prisoner_salute.bmp,prisoner_sleep.bmp,Elke,NL
+B,Filler,NA,IntFiller81,Elke zwemmer rende,swimmer_run.bmp,skier_run.bmp,Elke,NL
+B,Filler,NA,TrFiller14,De cowboy stak de clown,f_cowboy_clown.bmp,f_nun_clown2.bmp,Elke,NL
+B,Prime,Uwide,PT051,Elke boef greep een zak,thief_sack_m.bmp,thief_painting_m.bmp,Elke,NL
+B,Target,NA,PT085,Elke acteur sloeg een cameraman,actor_cameraman_m.bmp,actor_cameraman_s.bmp,Elke,NL
+B,Filler,NA,IntFiller01,Elke bokser knikte,boxer_nod.bmp,fireman_nod.bmp,Elke,NL
+B,Filler,NA,IntFiller30,Elke kat sliep,cat_sleep.bmp,nativeamerican_sleep.bmp,Elke,NL
+B,Filler,NA,TrFiller46,De piraat presenteerde de bokser,f_pirate_boxer.bmp,f_nun_boxer.bmp,Elke,NL
+B,Filler,NA,TrFiller35,De leeuw benaderde de waterval,f_lion_waterfall.bmp,f_moose_waterfall.bmp,Elke,NL
+B,Prime,Uwide,PT089,Elke vampier stak een saxofonist,vampire_saxophonist_m.bmp,vampire_woman_m.bmp,Elke,NL
+B,Target,NA,PT047,Elke non duwde een clown,nun_clown_m.bmp,nun_clown_s.bmp,Elke,NL
+B,Filler,NA,TrFiller24,De hardloper kuste de visverkoper,f_jogger_fishmonger.bmp,f_schoolmistress_fishmonger.bmp,Elke,NL
+B,Filler,NA,TrFiller25,De jongeman sloeg de grootvader,f_youngster_grandfather.bmp,f_youngster_captain.bmp,Elke,NL
+B,Filler,NA,TrFiller58,De professor raakte het boek aan,f_teacher_book.bmp,f_artist_book.bmp,Elke,NL
+B,Filler,NA,TrFiller37,De monnik beschoot het kopje,f_monk_cup.bmp,f_baker_cup.bmp,Elke,NL
+B,Prime,Uwide,PT018,Elke bewaker bekeek een gevangene,guard_prisoner_m.bmp,guard_singer_m.bmp,Elke,NL
+B,Target,NA,PT021,Elke bergbeklimmer beklom een klif ,mountaineer_cliff_m.bmp,mountaineer_cliff_s.bmp,Elke,NL
+B,Filler,NA,TrFiller41,De wetenschapper bekritiseerde de schrijver,f_scientist_writer.bmp,f_angel_writer.bmp,Elke,NL
+B,Filler,NA,TrFiller32,De klimmer at de drumstick,f_convict_drumstick.bmp,f_climber_drumstick.bmp,Elke,NL
+B,Filler,NA,IntFiller78,Elke indiaan glimlachte,nativeamerican_smile.bmp,nativeamerican_sleep.bmp,Elke,NL
+B,Filler,NA,IntFiller69,Elke brandweerman rende,fireman_run.bmp,boxer_run.bmp,Elke,NL
+B,Prime,Ewide,PT078,Elke redder wees naar een heks,lifeguard_witch_s.bmp,woman_witch_s.bmp,Elke,NL
+B,Target,NA,PT039,Elke wetenschapper bestrafte een student,scientist_student_m.bmp,scientist_student_s.bmp,Elke,NL
+B,Filler,NA,IntFiller02,Elke indiaan sliep,nativeamerican_sleep.bmp,fireman_sleep.bmp,Elke,NL
+B,Filler,NA,IntFiller41,Elke monnik liep,monk_walk.bmp,monk_laugh.bmp,Elke,NL
+B,Prime,Ewide,PT026,Elke beer naderde een tent,bear_tent_s.bmp,snake_tent_s.bmp,Elke,NL
+B,Target,NA,PT005,Elke student viel een professor aan,student_professor_m.bmp,student_professor_s.bmp,Elke,NL
+B,Filler,NA,IntFiller04,Elke ski&eumlr sliep,skier_sleep.bmp,skier_sneeze.bmp,Elke,NL
+B,Filler,NA,TrFiller21,De excentriekeling dronk de champagne,f_eccentric_champagne.bmp,f_eccentric_milkshake.bmp,Elke,NL
+B,Filler,NA,TrFiller16,De detective rook de soep,f_detective_soup.bmp,f_burglar_soup.bmp,Elke,NL
+B,Filler,NA,IntFiller23,Elke duiker gaapte,diver_yawn.bmp,knight_yawn.bmp,Elke,NL
+B,Prime,Ewide,PT102,Elke vis volgde een orka,fish_orca_s.bmp,turtle_orca_s.bmp,Elke,NL
+B,Target,NA,PT034,Elke huurmoordenaar beschoot een zwemmer,assassin_swimmer_m.bmp,assassin_swimmer_s.bmp,Elke,NL
+B,Filler,NA,IntFiller64,Elke ridder rende,knight_run.bmp,knight_laugh.bmp,Elke,NL
+B,Filler,NA,TrFiller23,De grootvader speelde de viool,f_grandfather_violin.bmp,f_maestro_violin.bmp,Elke,NL
+B,Prime,Ewide,PT082,Elke aristocraat rook een ijsje,aristocrat_icecream_s.bmp,wolf_icecream_s.bmp,Elke,NL
+B,Target,NA,PT092,Elke ridder stak een koningin,knight_queen_m.bmp,knight_queen_s.bmp,Elke,NL
+B,Filler,NA,IntFiller55,Elke ridder liep,knight_walk.bmp,knight_yawn.bmp,Elke,NL
+B,Filler,NA,TrFiller68,De soldaat mepte de artiest,f_soldier_artist.bmp,f_clown_artist.bmp,Elke,NL
+B,Prime,Ewide,PT056,Elke ballerina herkende een taart,ballerina_cake_s.bmp,cheerleader_cake_s.bmp,Elke,NL
+B,Target,NA,PT030,Elke heks bereed een koe,witch_cow_m.bmp,witch_cow_s.bmp,Elke,NL
+B,Filler,NA,IntFiller28,Elke gevangene rende,prisoner_run.bmp,nativeamerican_run.bmp,Elke,NL
+B,Filler,NA,IntFiller70,Elke indiaan rende,nativeamerican_run.bmp,prisoner_run.bmp,Elke,NL
+B,Prime,Uwide,PT061,Elke kok knuppelde een boef,chef_burglar_m.bmp,chef_turtle_m.bmp,Elke,NL
+B,Target,NA,PT083,Elke engel rook een pizza,angel_pizza_m.bmp,angel_pizza_s.bmp,Elke,NL
+B,Filler,NA,IntFiller46,Elke duiker klapte,diver_clap.bmp,fireman_clap.bmp,Elke,NL
+B,Filler,NA,IntFiller15,Elke ski&eumlr knikte,skier_nod.bmp,skier_run.bmp,Elke,NL
+B,Filler,NA,TrFiller45,De reiziger dronk de koffie,f_passenger_coffee.bmp,f_popstar_coffee.bmp,Elke,NL
+B,Filler,NA,TrFiller03,De artiest sloeg de arts,f_artist_doctor.bmp,f_artist_dancer.bmp,Elke,NL
+B,Prime,Ewide,PT011,Elke dwerg achtervolgde een clown,dwarf_clown_s.bmp,dancer_clown_s.bmp,Elke,NL
+B,Target,NA,PT003,Elke fee raakte een zebra aan,pixie_zebra_m.bmp,pixie_zebra_s.bmp,Elke,NL
+B,Filler,NA,TrFiller07,De danser stak de monnik,f_ballerina_monk.bmp,f_thief_monk.bmp,Elke,NL
+B,Filler,NA,TrFiller05,De astronaat raakte de pati&eumlnt aan,f_astronaut_patient.bmp,f_preacher_patient.bmp,Elke,NL
+B,Prime,Uwide,PT001,Elke kunstenaar raakte een ballerina aan,artist_ballerina_m.bmp,artist_skateboarder_m.bmp,Elke,NL
+B,Target,NA,PT097,Elke jongen verfde een muur,boy_wall_m.bmp,boy_wall_s.bmp,Elke,NL
+B,Filler,NA,TrFiller54,De prinses kuste de reus,f_princess_giant.bmp,f_elf_giant.bmp,Elke,NL
+B,Filler,NA,IntFiller76,Elke indiaan knikte,nativeamerican_nod.bmp,nativeamerican_sleep.bmp,Elke,NL
+B,Filler,NA,IntFiller39,Elke clown huilde,clown_cry.bmp,princess_cry.bmp,Elke,NL
+B,Prime,Ewide,PT090,Elke non stak een trol,nun_goblin_s.bmp,robot_goblin_s.bmp,Elke,NL
+B,Target,NA,PT059,Elke boef kietelde een arts,burglar_doctor_m.bmp,burglar_doctor_s.bmp,Elke,NL
+B,Filler,NA,IntFiller06,Elke gevangene sliep,prisoner_sleep.bmp,prisoner_run.bmp,Elke,NL
+B,Filler,NA,IntFiller31,Elke matroos liep,sailor_walk.bmp,skier_walk.bmp,Elke,NL
+B,Prime,Uwide,PT107,Elke vos zag een taart,fox_pie_m.bmp,fox_banana_m.bmp,Elke,NL
+B,Target,NA,PT060,Elke monnik kietelde een monteur,monk_mechanic_m.bmp,monk_mechanic_s.bmp,Elke,NL
+B,Filler,NA,TrFiller20,De engel rook de bloem,f_angel_flower.bmp,f_angel_perfume.bmp,Elke,NL
+B,Filler,NA,TrFiller28,De jongeman sloeg de kapitein,f_youngster_captain.bmp,f_youngster_grandfather.bmp,Elke,NL
+B,Prime,Ewide,PT013,Elke ballerina daalde een trap af,ballerina_stairs_s.bmp,cat_stairs_s.bmp,Elke,NL
+B,Target,NA,PT033,Elke jager beschoot een bal,hunter_ball_m.bmp,hunter_ball_s.bmp,Elke,NL
+B,Filler,NA,TrFiller01,De aristocraat rook de sigaar,f_aristocrat_cigar.bmp,f_pope_cigar.bmp,Elke,NL
+B,Filler,NA,IntFiller26,Elke boef lachte,burglar_laugh.bmp,knight_laugh.bmp,Elke,NL
+B,Prime,Ewide,PT036,Elke drugsdealer beschoot een beer,drugdealer_bear_s.bmp,drugdealer_deer_s.bmp,Elke,NL
+B,Target,NA,PT029,Elke pelgrim bereed een ezel,pilgrim_donkey_m.bmp,pilgrim_donkey_s.bmp,Elke,NL
+B,Filler,NA,TrFiller50,De politieman bestrafte de soldaat,f_policeman_soldier.bmp,f_policeman_boxer.bmp,Elke,NL
+B,Filler,NA,IntFiller48,Elke gevangene glimlachte,prisoner_smile.bmp,prisoner_sweat.bmp,Elke,NL
+B,Filler,NA,TrFiller31,De kip benaderde de boom,f_chicken_tree.bmp,f_chicken_iglo.bmp,Elke,NL
+B,Prime,Uwide,PT023,Elke haai viel een surfer aan,shark_surfer_m.bmp,shark_swimmer_m.bmp,Elke,NL
+B,Target,NA,PT048,Elke zwemmer duwde een ballerina,swimmer_ballerina_m.bmp,swimmer_ballerina_s.bmp,Elke,NL
+B,Filler,NA,IntFiller11,Elke matroos knikte,sailor_nod.bmp,sailor_laugh.bmp,Elke,NL
+B,Filler,NA,TrFiller36,De bouwvakker dronk de melk,f_workman_milk.bmp,f_workman_beer.bmp,Elke,NL
+B,Filler,NA,TrFiller12,De cowboy gooide de pistool,f_cowboy_gun.bmp,f_cowboy_banana2.bmp,Elke,NL
+B,Filler,NA,TrFiller49,De politicus rook de wijn,f_politician_wine.bmp,f_politician_fish.bmp,Elke,NL
+B,Prime,Uwide,PT045,Elke zakenvrouw duwde een trol,businesswoman_goblin_m.bmp,businesswoman_turtle_m.bmp,Elke,NL
+B,Target,NA,PT067,Elke serveerster bekeek een klant ,waitress_customer_m.bmp,waitress_customer_s.bmp,Elke,NL
+B,Filler,NA,TrFiller69,De sporter duwde de bankier,f_sportsman_banker.bmp,f_drunk_banker.bmp,Elke,NL
+B,Filler,NA,TrFiller76,De artiest mepte de clown,f_artist_clown.bmp,f_artist_soldier.bmp,Elke,NL
+B,Filler,NA,TrFiller79,Het meisje raakte de fee aan,f_girl_fairy.bmp,f_girl_champion.bmp,Elke,NL
+B,Prime,Uwide,PT037,Elke professor bestrafte een matroos,professor_sailor_m.bmp,professor_dog_m.bmp,Elke,NL
+B,Target,NA,PT016,Elk schoolmeisje bekeek een vogel,schoolgirl_bird_m.bmp,schoolgirl_bird_s.bmp,Elke,NL
+B,Filler,NA,IntFiller42,Elke heks huilde,witch_cry.bmp,witch_laugh.bmp,Elke,NL
+B,Filler,NA,IntFiller35,Elke ridder klapte,knight_clap.bmp,knight_skip.bmp,Elke,NL
+B,Prime,Ewide,PT052,Elke portier greep een koffer,porter_suitcase_s.bmp,woman_suitcase_s.bmp,Elke,NL
+B,Target,NA,PT027,Elke hond naderde een kasteel,dog_castle_m.bmp,dog_castle_s.bmp,Elke,NL
+B,Filler,NA,TrFiller51,De politieman gooide de appel,f_policeman_apple.bmp,f_policeman_hat.bmp,Elke,NL
+B,Filler,NA,IntFiller22,Elke ridder nieste,knight_sneeze.bmp,knight_walk.bmp,Elke,NL
+B,Filler,NA,TrFiller34,De kok duwde de hoed,f_chef_hat.bmp,f_nun_hat2.bmp,Elke,NL
+B,Prime,Uwide,PT071,Elke cowboy mepte een boer,cowboy_farmer_m.bmp,cowboy_cyclist_m.bmp,Elke,NL
+B,Target,NA,PT094,Elke musicus stal een piano,musician_piano_m.bmp,musician_piano_s.bmp,Elke,NL
+B,Filler,NA,IntFiller07,Elke indiaan klapte,nativeamerican_clap.bmp,witch_clap.bmp,Elke,NL
+B,Filler,NA,IntFiller45,Elke ski&eumlr rende,skier_run.bmp,skier_yawn.bmp,Elke,NL
+B,Filler,NA,IntFiller40,Elke indiaan sprong,nativeamerican_skip.bmp,witch_skip.bmp,Elke,NL
+B,Filler,NA,TrFiller22,De fee raakte de draak aan,f_pixie_dragon.bmp,f_pixie_unicorn.bmp,Elke,NL
+B,Prime,Uwide,PT031,Elk kind beklom een ladder,kid_ladder_m.bmp,kid_tree_m.bmp,Elke,NL
+B,Target,NA,PT006,Elke gek viel een standbeeld aan,madman_sculpture_m.bmp,madman_sculpture_s.bmp,Elke,NL
+B,Filler,NA,TrFiller78,Het kleinkind kietelde de virtuoos,f_grandchild_virtuoso.bmp,f_stewardess_virtuoso.bmp,Elke,NL
+B,Filler,NA,IntFiller43,Elke brandweerman sprong,fireman_skip.bmp,skier_skip.bmp,Elke,NL
+B,Filler,NA,IntFiller62,Elke duiker zweette,diver_sweat.bmp,prisoner_sweat.bmp,Elke,NL
+B,Filler,NA,IntFiller37,Elke danser knikte,dancer_nod.bmp,nativeamerican_nod.bmp,Elke,NL
+B,Prime,Ewide,PT046,Elke kok duwde een zwemmer,chef_swimmer_s.bmp,monk_swimmer_s.bmp,Elke,NL
+B,Target,NA,PT020,Elke wandelaar beklom een heuvel,hiker_hill_m.bmp,hiker_hill_s.bmp,Elke,NL
+B,Filler,NA,TrFiller42,De non toonde de banaan,f_monk_banana.bmp,f_monk_cake.bmp,Elke,NL
+B,Filler,NA,IntFiller47,Elke heks klapte,witch_clap.bmp,witch_cry.bmp,Elke,NL
+B,Filler,NA,IntFiller14,Elke brandweerman gaapte,fireman_yawn.bmp,fireman_clap.bmp,Elke,NL
+B,Prime,Ewide,PT058,Elke matador kietelde een detective,matador_detective_s.bmp,artist_detective_s.bmp,Elke,NL
+B,Target,NA,PT079,Elke kabouter wees naar een brandweerman,gnome_fireman_m.bmp,gnome_fireman_s.bmp,Elke,NL
+B,Filler,NA,IntFiller17,Elke gevangene zweette,prisoner_sweat.bmp,prisoner_sneeze.bmp,Elke,NL
+B,Filler,NA,IntFiller33,Elke kat liep,cat_walk.bmp,cat_sleep.bmp,Elke,NL
+B,Prime,Ewide,PT002,Elke astronaut raakte een microfoon aan,astronaut_microphone_s.bmp,pixie_microphone_s.bmp,Elke,NL
+B,Target,NA,PT017,Elke serveerste kuste een soldaat,waitress_soldier_m.bmp,waitress_soldier_s.bmp,Elke,NL
+B,Filler,NA,TrFiller06,De bakker stak de boef,f_baker_thief.bmp,f_swimmer_thief.bmp,Elke,NL
+B,Filler,NA,IntFiller60,Elke indiaan nieste,nativeamerican_sneeze.bmp,nativeamerican_yawn.bmp,Elke,NL
+B,Filler,NA,TrFiller38,De musicus speelde de harp,f_performer_harp.bmp,f_performer_flute.bmp,Elke,NL
+B,Prime,Uwide,PT065,Elke kunstenaar kuste een bokser,artist_boxer_m.bmp,artist_clown_m.bmp,Elke,NL
+B,Target,NA,PT086,Elke hippie sloeg een reiziger,hippie_backpacker_m.bmp,hippie_backpacker_s.bmp,Elke,NL
+B,Filler,NA,TrFiller64,De serveerster at de taart,f_waitress_cake.bmp,f_professor_cake.bmp,Elke,NL
+B,Filler,NA,IntFiller79,Elke indiaan gaapte,nativeamerican_yawn.bmp,fireman_yawn.bmp,Elke,NL
+B,Prime,Uwide,PT087,Elke bedelaar sloeg een journalist,beggar_reporter_m.bmp,beggar_doctor_m.bmp,Elke,NL
+B,Target,NA,PT054,Elke protesteerder herkende een vlag,protester_flag_m.bmp,protester_flag_s.bmp,Elke,NL
+B,Filler,NA,IntFiller58,Elke ridder sprong,knight_skip.bmp,prisoner_skip.bmp,Elke,NL
+B,Filler,NA,TrFiller71,De giraffe at de appel,f_giraffe_apple.bmp,f_panda_apple.bmp,Elke,NL
+B,Filler,NA,IntFiller59,Elke duiker nieste,diver_sneeze.bmp,knight_sneeze.bmp,Elke,NL
+B,Filler,NA,TrFiller74,De vos benaderde de auto,f_fox_car.bmp,f_fox_pool.bmp,Elke,NL
+B,Prime,Uwide,PT101,Elke ridder volgde een monnik,knight_monk_m.bmp,knight_scout_m.bmp,Elke,NL
+B,Target,NA,PT050,Elke kok greep een bord,chef_platter_m.bmp,chef_platter_s.bmp,Elke,NL
+B,Filler,NA,TrFiller26,De jager beschoot de adelaar,f_hunter_eagle.bmp,f_hunter_bear.bmp,Elke,NL
+B,Filler,NA,TrFiller56,De professor bestrafte de soldaat,f_professor_soldier.bmp,f_policeman_soldier.bmp,Elke,NL
+B,Filler,NA,IntFiller56,Elke heks glimlachte,witch_smile.bmp,witch_cry.bmp,Elke,NL
+B,Filler,NA,IntFiller71,Elke gevangene nieste,prisoner_sneeze.bmp,prisoner_skip.bmp,Elke,NL
+B,Prime,Ewide,PT024,Elke aap beklom een muur,monkey_wall_s.bmp,cat_wall_s.bmp,Elke,NL
+B,Target,NA,PT093,Elke zwerver stal een bed,tramp_bed_m.bmp,tramp_bed_s.bmp,Elke,NL
+B,Filler,NA,IntFiller54,Elke ridder lachte,knight_laugh.bmp,knight_run.bmp,Elke,NL
+B,Filler,NA,TrFiller17,De dierenarts kietelde de puppy,f_vet_puppy.bmp,f_vet_pony.bmp,Elke,NL
+B,Prime,Ewide,PT108,Elke toerist zag een standbeeld,tourist_statue_s.bmp,monk_statue_s.bmp,Elke,NL
+B,Target,NA,PT070,Elke voetballer mepte een politieman,footballer_policeman_m.bmp,footballer_policeman_s.bmp,Elke,NL
+B,Filler,NA,TrFiller61,De non toonde de taart,f_monk_cake.bmp,f_monk_banana.bmp,Elke,NL
+B,Filler,NA,TrFiller39,De musicus speelde de gitaar,f_entertainer_guitar.bmp,f_entertainer_accordion.bmp,Elke,NL
+B,Filler,NA,TrFiller66,De presentator hield de megafoon vast,f_announcer_loudhailer.bmp,f_announcer_gift.bmp,Elke,NL
+B,Filler,NA,IntFiller74,Elke indiaan liep,nativeamerican_walk.bmp,soldier_walk.bmp,Elke,NL
+B,Prime,Uwide,PT057,Elke kunstenaar kietelde een matroos,artist_sailor_m.bmp,artist_monk_m.bmp,Elke,NL
+B,Target,NA,PT043,Elke verhuizer droeg een doos,mover_box_m.bmp,mover_box_s.bmp,Elke,NL
+B,Filler,NA,TrFiller27,De jager beschoot de beer,f_hunter_bear.bmp,f_hunter_eagle.bmp,Elke,NL
+B,Filler,NA,TrFiller43,De presentator hield het cadeau vast,f_announcer_gift.bmp,f_announcer_loudhailer.bmp,Elke,NL
+B,Filler,NA,IntFiller24,Elke monnik lachte,monk_laugh.bmp,monk_walk.bmp,Elke,NL
+B,Prime,Ewide,PT062,Elke farao knuppelde een slaaf,farao_slave_s.bmp,policeman_slave_s.bmp,Elke,NL
+B,Target,NA,PT106,Elke gast zag een taart,diner_pudding_m.bmp,diner_pudding_s.bmp,Elke,NL
+B,Filler,NA,TrFiller59,De fotograaf tilde de stoel op,f_photographer_chair.bmp,f_painter_chair.bmp,Elke,NL
+B,Filler,NA,IntFiller77,Elke brandweerman liep,fireman_walk.bmp,sailor_walk.bmp,Elke,NL
+B,Prime,Uwide,PT095,Elke boef stal een auto,robber_car_m.bmp,robber_bicycle_m.bmp,Elke,NL
+B,Target,NA,PT028,Elke kat naderde een hut,cat_shed_m.bmp,cat_shed_s.bmp,Elke,NL
+B,Filler,NA,IntFiller44,Elke duiker glimlachte,diver_smile.bmp,witch_smile.bmp,Elke,NL
+B,Filler,NA,TrFiller60,De punker duwde de professor,f_punk_headmaster.bmp,f_athlete_headmaster.bmp,Elke,NL
+B,Prime,Ewide,PT098,Elk konijn verfde een schilderij,rabbit_painting_s.bmp,wasp_painting_s.bmp,Elke,NL
+B,Target,NA,PT103,Elke aap volgde een kat,monkey_cat_m.bmp,monkey_cat_s.bmp,Elke,NL
+B,Filler,NA,TrFiller19,De engel bekritiseerde de schrijver,f_angel_writer.bmp,f_scientist_writer.bmp,Elke,NL
+B,Filler,NA,IntFiller53,Elke politieman rende,policeman_run.bmp,waitress_run.bmp,Elke,NL
+B,Filler,NA,IntFiller65,Elke danser lachte,dancer_laugh.bmp,sailor_laugh.bmp,Elke,NL
+B,Filler,NA,IntFiller72,Elke soldaat liep,soldier_walk.bmp,prisoner_walk.bmp,Elke,NL
+B,Prime,Uwide,PT075,Elke verpleegster tikte een zigeuner aan,nurse_gypsy_m.bmp,nurse_boxer_m.bmp,Elke,NL
+B,Target,NA,PT040,Elke engel bestrafte een monster,angel_monster_m.bmp,angel_monster_s.bmp,Elke,NL
